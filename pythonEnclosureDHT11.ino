@@ -92,6 +92,6 @@ void loop() {
     // Update the display
     display.display();
 
-    // Wait for 2 seconds before the next loop (for smooth transitions)
+    // Wait for 5 seconds before the next loop (for smooth transitions)
     delay(5000);
 }
